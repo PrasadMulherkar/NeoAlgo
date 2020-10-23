@@ -45,6 +45,7 @@ _add list here_
 ## Cryptography
 
 - [Caesar Cipher](cryptography/ceaserCipher.java)
+- [Affine Cipher](cryptography/AffineCipher.java)
 
 ## Dynamic Programming
 
